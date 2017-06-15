@@ -1,4 +1,3 @@
-
 import json, urllib.request
 try:
     Amount = float(input("Please Enter the Amount? "))
